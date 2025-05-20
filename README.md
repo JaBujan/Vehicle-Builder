@@ -44,7 +44,7 @@ Make local changes to push up.
 ## Tests
 The application is working correctly if all command-line options do what they are meant to without throwing an exception.
 
-[Click here](https://app.screencastify.com/v2/manage/videos/pYzrNmYSUNUXgtG7LhQO) to watch a walkthrough video on how the application works.
+[Click here](https://drive.google.com/file/d/1_2ZwEmGY5s4S4do1fNqh2X280KBs6BkH/view?usp=sharing) to watch a walkthrough video on how the application works.
 
 ## License
 The application is covered under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt).   
